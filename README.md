@@ -11,7 +11,7 @@
 - 💬 Ask me about ANYTHING! I'm a very open person and I'd be glad to help you.
 - ⚡ Fun fact: I like Brazilian Jiujitsu, weightlifting, chess and sci-fi movies.
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Darkonnen Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DXdLN4BcWU2A7)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Darkonnen Spotify Playing" width="350" />](https://open.spotify.com/playlist/0DeFZdmzfgtiek4NDrHWrc)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adel-cabrera&label=Profile%20views&color=0e75b6&style=flat alt="adel-cabrera" /> </p>
 
