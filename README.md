@@ -11,7 +11,7 @@ FYI:
 
 ## Connect with me:
 
-<img  alt="github" src"https://media.giphy.com/media/0bGYUwfH5KEvvJEyWu/giphy.gif" >
+<img src"https://media.giphy.com/media/0bGYUwfH5KEvvJEyWu/giphy.gif" alt="github">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adel-cabrera&label=Profile%20views&color=0e75b6&style=flat" alt="adel-cabrera" /> </p>
 
