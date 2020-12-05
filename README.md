@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adel-cabrera&label=Profile%20views&color=0e75b6&style=flat alt="adel-cabrera" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adel-cabrera&theme=onedark" alt="adel-cabrera" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adel-cabrera&theme=onedark&column=4&margin-w=15&margin-h=15" alt="adel-cabrera" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
