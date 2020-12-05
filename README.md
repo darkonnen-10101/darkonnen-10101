@@ -14,7 +14,7 @@
 - 💬 Ask me about ANYTHING! I'm a very open person and I'd be glad to help you.
 - ⚡ Fun fact: I like Brazilian Jiujitsu, weightlifting, chess and sci-fi movies.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adel-cabrera&theme=onedark&column=7&margin-w=15&margin-h=15" alt="adel-cabrera" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adel-cabrera&theme=onedark&column=7&margin-w=10&margin-h=10" alt="adel-cabrera" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
