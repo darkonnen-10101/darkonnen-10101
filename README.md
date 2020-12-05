@@ -1,6 +1,6 @@
 # Ædel Darkonnen
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adel-cabrera&label=Profile%20views&color=0e75b6&style=flat alt="adel-cabrera" /> ![Linkedin Badge](https://img.shields.io/badge/-adel.cabrera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adel-jes%C3%BAs-cabrera-mesina/) </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adel-cabrera&label=Profile%20views&color=0e75b6&style=flat alt="adel-cabrera" /> </p>
 
 <img width="1000" src="https://media.giphy.com/media/0bGYUwfH5KEvvJEyWu/giphy.gif" alt="github">
 
