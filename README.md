@@ -1,6 +1,7 @@
 # Ædel Darkonnen
 
-![Linkedin Badge](https://img.shields.io/badge/-adel.cabrera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adel-jes%C3%BAs-cabrera-mesina//)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adel-cabrera&label=Profile%20views&color=0e75b6&style=flat alt="adel-cabrera" /> </p>
+ ![Linkedin Badge](https://img.shields.io/badge/-adel.cabrera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adel-jes%C3%BAs-cabrera-mesina//)
 
 <img width="1000" src="https://media.giphy.com/media/0bGYUwfH5KEvvJEyWu/giphy.gif" alt="github">
 
@@ -13,8 +14,6 @@
 - 🤔 I’m looking for help with investments.
 - 💬 Ask me about ANYTHING! I'm a very open person and I'd be glad to help you.
 - ⚡ Fun fact: I like Brazilian Jiujitsu, weightlifting, chess and sci-fi movies.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adel-cabrera&label=Profile%20views&color=0e75b6&style=flat alt="adel-cabrera" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adel-cabrera&theme=onedark&column=4&margin-w=15&margin-h=15" alt="adel-cabrera" /></a> </p>
 
