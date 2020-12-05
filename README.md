@@ -12,9 +12,9 @@
 - ⚡ Fun fact: I like Brazilian Jiujitsu, weightlifting, chess and sci-fi movies.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adel-cabrera&label=Profile%20views&color=0e75b6&theme=onedark alt="adel-cabrera" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adel-cabrera&label=Profile%20views&color=0e75b6&style=flat alt="adel-cabrera" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adel-cabrera" alt="adel-cabrera" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adel-cabrera&theme=onedark" alt="adel-cabrera" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
