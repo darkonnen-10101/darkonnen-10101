@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adel-cabrera&show_icons=true&locale=en&theme=radical" alt="adel-cabrera" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adel-cabrera&theme=radical" alt="adel-cabrera" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adel-cabrera&theme=dark" alt="adel-cabrera" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/8FpL7v1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/8FpL7v1" target="_blank"/></a></p><br><br>
