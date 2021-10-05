@@ -7,8 +7,8 @@
 ### About me:
 
 - :hearts: I really love and admire Ada Lovelace. 
-- 🔭 I’m currently working as a Jr. Java developer.
-- 🌱 I’m currently learning Spring Boot microservices.
+- 🔭 I’m currently working as a Tech Lead.
+- 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with investments.
 - 💬 Ask me about ANYTHING! I'm a very open person and I'd be glad to help you.
